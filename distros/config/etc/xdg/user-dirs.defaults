@@ -1,10 +1,10 @@
 DESKTOP=Desktop
 DOWNLOAD=Downloads
-TEMPLATES=Tempalates
-PUBLICSHARE=Public
-DOCUMENTS=Documents
+TEMPLATES=Archive
+PUBLICSHARE=Manuscript
+DOCUMENTS=Artefact
 MUSIC=Music
-PICTURES=Pictures
+PICTURES=Gallery
 VIDEOS=Videos
 # Another alternative is:
 #MUSIC=Documents/Music
