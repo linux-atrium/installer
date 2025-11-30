@@ -1,5 +1,5 @@
-DISTRO_NAME="Eyerise"
-DISTRO_UNIQ="eyerise"
+DISTRO_NAME="Atrium"
+DISTRO_UNIQ="Atrium"
 
 DISTRO_DESK="cosmic"
 DISTRO_AUDI="pipe"
